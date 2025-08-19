@@ -1,4 +1,4 @@
-/* Finding the greatest in the given two numbers */
+/* Finding the greatest in the given four numbers */
 #include <iostream>
 using namespace std;
  
