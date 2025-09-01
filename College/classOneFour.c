@@ -15,31 +15,7 @@ int main() {
     printf("Enter the value of R:");
     scanf("%d", &R);
 
-double
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-x;
+double x;
 x=(P*T*R)/100;
 
 printf("The simple interest is %d", x);
